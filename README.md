@@ -13,7 +13,7 @@
 
 ## 🎯 About Me
 
-- 🔥 Backend Engineering Intern at **Zeta** (Platform & Performance Engineering)
+- 🔥 Backend Engineer at **Zeta** 
 - 🎓 Final Year CSE Student | SRM University | **CGPA: 9.28**
 - 💻 Specialized in **Microservices, System Design, Performance Optimization & API Development**
 - 🚀 Migrated 3 SaaS microservices to JDK 17 | Reduced API latency by **90%** using Retrofit & concurrency
